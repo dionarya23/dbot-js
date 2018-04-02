@@ -12,7 +12,7 @@ var dbot = require('dbot-js')
 
 dbot.get_response("apakabar?", function(err, result) {
     (!err) ?
-    console.log(result.data.msg)
+    console.log(result)
     // result => "Kabar ku baik, kamu?"
 })
 ```
