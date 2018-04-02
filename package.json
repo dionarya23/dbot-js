@@ -1,6 +1,6 @@
 {
-  "name": "dbot",
-  "version": "1.0.0",
+  "name": "dbot-js",
+  "version": "1.0.1",
   "description": "🤖 dbot-js is an Indonesian-language bot",
   "main": "index.js",
   "scripts": {
